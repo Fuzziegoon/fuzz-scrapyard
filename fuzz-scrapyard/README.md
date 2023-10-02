@@ -1,6 +1,9 @@
 ```This is my edit of an edit of qb-scrapyard. ```
+
 ```I forked it from https://github.com/Mustachedom/qb-scrapyard```
+
 ```Shoutout to Mustachedom for the original fork of this!!```
+
  I switched parts exchange to a ped. added configurable item for parts exchange as well as configured removal of said item. added a minigame for exchange with configured choice of remove item!
 
 ## Dependencies 
